@@ -22,6 +22,7 @@ public class Main {
         estacionamiento.ingresarVehiculo(bici);
         estacionamiento.ingresarVehiculo(camion);
 
+
         estacionamiento.mostrarVehiculos();
 
         // Demostración de ISP: solo conducibles pueden ser conducidos
